@@ -1,0 +1,55 @@
+@import url(./Header.css);
+@import url(./Main.css);
+
+/* Globals */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-primario: rgb(236, 127, 38);
+    --color-secundario: rgb(39, 38, 43);
+    --color-font1: rgb(7, 44, 61);
+    --color-font2: rgb(250, 235, 215);
+    --font-family1:  sans-serif;
+    --font-family2: verdana;
+    --font-family: Courier, monospace; 
+
+}
+
+body {
+    background-color: var(--color-secundario);
+    color: var(--color-font2);
+    font-family: var(--font-family1);
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    margin: 50px;
+    color: var(--color-secundario);
+    font-family: var(--font-family);
+    text-decoration: none;
+}
+
+a:hover{
+    color: var(--color-font2);
+}
+
+nav{
+    font-family: var(--font-family);
+}
+
+/* Specific */
+.retromobilegaming{
+    margin: 
+}
+
+
+
+
+

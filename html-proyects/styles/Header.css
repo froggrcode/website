@@ -1,0 +1,6 @@
+header {
+    color: var(--color-font1);
+    background-color: var(--color-primario);
+    font-family: var(--font-family1);
+    border-bottom: 2px black solid;
+}
